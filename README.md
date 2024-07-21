@@ -54,6 +54,6 @@ sudo docker run -p 5000:5000 my-python-app
 Feel free to open issues or submit pull requests. We welcome contributions from the community! 🌍
 
 # 📧 Contact
-For any queries, please reach out to karthikdeshpandeabd@gmail.com.
+For any queries, please reach out to lolitamascarenhas@gmail.com
 
 Happy coding! 🚀
