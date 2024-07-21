@@ -70,8 +70,8 @@ Command : curl -d '[{"radius_mean": 17.99, "texture_mean": 10.38, "perimeter_mea
 
 # 9. Building Docker Image and Running it 
 
-sudo docker build -t my-python-app .
-sudo docker run -p 5000:5000 my-python-app
+docker build -t my-python-app .
+docker run -p 5000:5000 my-python-app
 
 # 📄 Contributing
 Feel free to open issues or submit pull requests. We welcome contributions from the community! 🌍
